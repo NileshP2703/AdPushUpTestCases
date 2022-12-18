@@ -5,8 +5,9 @@ This is a simple framework having maven as build tool, testNg for tesing framewo
 Quick Start
 
 Clone this repository using command git clone git@github.com:NileshP2703/AdPushUpTestCases.git 
-Java 1.8 or above version.
 Prerequisite:- 
+Java 1.8 or above needs to be installed
+TestNg should be installed in the IDE
 Need to have Chrome 
              Firefox
              Edge
