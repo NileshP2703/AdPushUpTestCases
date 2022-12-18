@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AdPush Test Cases">
+	<test name="Basic Ad Testing">
+		<packages>
+			<package name="CheckBoxesOnDifferentBrowser" />
+			<package name="MaxMinFullOnDiffrentBrowser" />
+			<package name="PageScrollValidation" />
+			<package name="VerifyTheDimensionsOfBoxes" />
+			<package name="VerifyTheLocation" />
+			<package name="VisibilityValidation" />
+		</packages>
+	</test>
+</suite> 

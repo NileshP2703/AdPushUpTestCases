@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-18T22:19:59 IST" name="Default suite" finished-at="2022-12-18T22:20:34 IST" duration-ms="35696">
+    <groups>
+    </groups>
+    <test started-at="2022-12-18T22:19:59 IST" name="Default test" finished-at="2022-12-18T22:20:34 IST" duration-ms="35696">
+      <class name="VisibilityValidation.Refreshmentcheck15SecondBox1">
+        <test-method signature="refreshmentcheck15SecondBox1()[pri:0, instance:VisibilityValidation.Refreshmentcheck15SecondBox1@4dbb42b7]" started-at="2022-12-18T22:19:59 IST" name="refreshmentcheck15SecondBox1" finished-at="2022-12-18T22:20:34 IST" duration-ms="35610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refreshmentcheck15SecondBox1 -->
+      </class> <!-- VisibilityValidation.Refreshmentcheck15SecondBox1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
